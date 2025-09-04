@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="SakinahDock/App.axaml" value="SakinahDock/SakinahDock.csproj" />
+        <entry key="SakinahDock/Views/MainWindow.axaml" value="SakinahDock/SakinahDock.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
